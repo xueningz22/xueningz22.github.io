@@ -17,7 +17,7 @@
 
 ---
 [Project 4 Title](/pdf/fajardo landcover.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/SwimmingpoolAll?raw=true"/>
 
 ---
 
